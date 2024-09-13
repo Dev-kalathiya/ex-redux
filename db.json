@@ -1,0 +1,34 @@
+{
+  "students": [
+    {
+      "id": "7b77",
+      "Name": "dev",
+      "Email": "dev@125",
+      "Country": "india",
+      "State": "guj",
+      "name": "dev",
+      "country": "india",
+      "state": "guj"
+    },
+    {
+      "id": "0f1e",
+      "Name": "jash",
+      "Email": "jash@gmail.com",
+      "Country": "India",
+      "State": "Gujarat",
+      "name": "jash",
+      "country": "India",
+      "state": "Gujarat"
+    },
+    {
+      "id": "5058",
+      "Name": "mitu",
+      "Email": "mitu@gmail.com",
+      "Country": "india",
+      "State": "guj",
+      "name": "kartikey';0",
+      "country": "india",
+      "state": "guj"
+    }
+  ]
+}
